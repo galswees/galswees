@@ -1,5 +1,6 @@
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=galswees&label=◸⬘◢&color=9d81ba&style=flat"  alt="Просмотры профиля" style="border-radius: 10px;" />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=galswees&style=for-the-badge&label=△&color=9d81ba" alt="Просмотры профиля"/>
+<h1 align="center"
   
 <p align="center">
 <img src=https://github.com/user-attachments/assets/c3461ce0-614a-4275-bb62-eb89c38a2f97 alt="animated" />
