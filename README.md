@@ -3,7 +3,7 @@
 <h1 align="center"
   
 <p align="center">
-<img src=https://github.com/user-attachments/assets/c3461ce0-614a-4275-bb62-eb89c38a2f97 alt="animated" />
+<img src=https://github.com/user-attachments/assets/6f6aa765-4cc9-49dd-8f3d-c4c9a063d229 alt="animated" />
 </p> 
 
 <p align="center">
