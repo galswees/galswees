@@ -10,6 +10,3 @@
 <img src=https://github.com/user-attachments/assets/69b2e1fa-907f-4091-b360-a4e88cd08de6 alt="animated" />
 </p> 
 
-<p align="center">
-<img src=https://github.com/user-attachments/assets/14694165-c9a4-42b6-b821-6b857a2d6fe3 alt="animated" />
-</p> 
